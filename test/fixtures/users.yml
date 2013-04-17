@@ -3,3 +3,9 @@ scott:
     last_name: "Robinson"
     email: "anotherscott@gmail.com"
     profile_name: "Bachelorum"
+
+fiona:
+    first_name: "Fiona"
+    last_name: "George"
+    email: "tiger.tits00@gmail.com"
+    profile_name: "Fifi"
